@@ -1,0 +1,13 @@
+
+# Capstone Project Repository
+
+Please paste the URL of your GitHub repository below. Ensure that the repository is public or accessible to reviewers.
+
+GitHub Repository URL: [Paste your URL here]
+
+## Notes for Reviewers
+
+- Make sure to follow the instructions provided in the repository's README file to set up and run the application.
+- If you encounter any issues accessing the repository or running the application, please reach out using the contact information provided in the README.
+
+Thank you for reviewing my capstone project!
